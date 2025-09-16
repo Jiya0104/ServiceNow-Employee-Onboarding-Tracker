@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-31 14:02:40</sys_created_on>
+        <sys_id>24142dcc47f762100a8eafcf016d4354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1825132_employee_employee_onboarding.x_1825132_employee.x_onboarding.it</sys_name>
+        <sys_package display_value="Employee Onboarding Tracker" source="x_1825132_employee">b75c5d04473762100a8eafcf016d43d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding Tracker">b75c5d04473762100a8eafcf016d43d8</sys_scope>
+        <sys_security_acl display_value="x_1825132_employee_employee_onboarding">64142dcc47f762100a8eafcf016d4351</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_24142dcc47f762100a8eafcf016d4354</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-31 14:02:40</sys_updated_on>
+        <sys_user_role display_value="x_1825132_employee.x_onboarding.it" name="x_1825132_employee.x_onboarding.it">6a9d5dc447f762100a8eafcf016d4363</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Application to track employee onboarding tasks across HR, IT, and Facilities.</description>
+        <device_type>browser</device_type>
+        <hint>Application to track employee onboarding tasks across HR, IT, and Facilities.</hint>
+        <name/>
+        <order/>
+        <roles>x_1825132_employee.x_onboarding.hr,x_1825132_employee.x_onboarding.it,x_1825132_employee.x_onboarding.facilities,x_1825132_employee.x_onboarding.manager</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-31 14:31:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e09ae9c447f762100a8eafcf016d436f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Onboarding Tracker</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Onboarding Tracker" source="x_1825132_employee">b75c5d04473762100a8eafcf016d43d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding Tracker">b75c5d04473762100a8eafcf016d43d8</sys_scope>
+        <sys_update_name>sys_app_application_e09ae9c447f762100a8eafcf016d436f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-31 14:31:04</sys_updated_on>
+        <title>Employee Onboarding Tracker</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
